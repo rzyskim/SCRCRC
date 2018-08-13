@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SCRCRC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SCRCRC_jar</output-path>
+    <root id="archive" name="SCRCRC.jar">
+      <element id="module-output" name="SCRCRC" />
+    </root>
+  </artifact>
+</component>
